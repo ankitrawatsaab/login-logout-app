@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Login Logout App
 
 A full-stack authentication application built with React, Node.js, Express.js, and MongoDB.
@@ -45,3 +46,7 @@ npm run dev
 Author
 
 Ankit Rawat
+=======
+# login-logout-app
+A full-stack authentication app built with React, Vite, Tailwind CSS, Node.js, Express.js, and MongoDB. Features include user registration, login, logout, password hashing, JWT authentication, and responsive UI.
+>>>>>>> 1fd4615cbc2c11c63072760a531d6f848c5e00b1
